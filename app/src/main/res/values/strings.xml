@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">GalleryApp</string>
-    <string name="featured">Featured</string>
+    <string name="my_courses">Camera</string>
+    <string name="featured">Gallery</string>
+    <string name="search">Search</string>
+    <string name="label_profile">Profile</string>
 </resources>
